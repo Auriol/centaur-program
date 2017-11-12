@@ -1,2 +1,2 @@
 # centaur-program
-Computer Science (AI and block chain specialisation)
+Computer Science (AI and blockchain specialisation)
