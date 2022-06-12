@@ -1,11 +1,11 @@
 # centaur-program
-Computer Science, Artificial Intelligence and Blockchain Technology Specialisations
+Computer Science, Artificial Intelligence and Bitcoin Specialisations
 
 ![The Centaur Program)](https://i.imgur.com/wc8aPkZ.png)
 
 <h3 align="center">[Centaur Program]</h3>
 <p>
-  A self-guided computer science education with specialisations in artificial intelligence and blockchain technology
+  A self-guided computer science education with specialisations in artificial intelligence and bitcoin technologies.
 
   Inspired by [Open Source Society University](https://github.com/ossu/computer-science) and [MIT Challenge](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
 </p>
