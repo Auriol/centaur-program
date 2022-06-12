@@ -11,32 +11,32 @@ Computer Science, Artificial Intelligence and Bitcoin Specialisations
 </p>
 
 ## Contents
--FreeCodeCamp.com 
-  -**(New) Responsive Web Design Certification (300 hours)**
-    -Learn HTML by Building a Cat Photo App...7%
-    -Learn Basic CSS by Building a Cafe Menu, Not started
-    -Learn CSS Colors by Building a Set of Colored Markers, Not started
-    -Learn HTML Forms by Building a Registration Form, Not started
-    -Certification Project: Survey Form
+- FreeCodeCamp.com 
+  - **(New) Responsive Web Design Certification (300 hours)**
+    - Learn HTML by Building a Cat Photo App...7%
+    - Learn Basic CSS by Building a Cafe Menu, Not started
+    - Learn CSS Colors by Building a Set of Colored Markers, Not started
+    - Learn HTML Forms by Building a Registration Form, Not started
+    - Certification Project: Survey Form
     
-    -Learn the CSS Box Model by Building a Rothko Painting, Not started
-    -Learn CSS Flexbox by Building a Photo Gallery, Not started
-    -Learn Typography by Building a Nutrition Label, Not started
-    -Learn Accessibility by Building a Quiz, Not started
-    -Certification Project: Tribute Page
+    - Learn the CSS Box Model by Building a Rothko Painting, Not started
+    - Learn CSS Flexbox by Building a Photo Gallery, Not started
+    - Learn Typography by Building a Nutrition Label, Not started
+    - Learn Accessibility by Building a Quiz, Not started
+    - Certification Project: Tribute Page
     
-    -Learn More About CSS Pseudo Selectors By Building A Balance Sheet, Not started
-    -Learn Intermediate CSS by Building a Picasso Painting, Not started
-    -Learn Responsive Web Design by Building a Piano, Not started
-    -Certification Project: Technical Documentation Page
+    - Learn More About CSS Pseudo Selectors By Building A Balance Sheet, Not started
+    - Learn Intermediate CSS by Building a Picasso Painting, Not started
+    - Learn Responsive Web Design by Building a Piano, Not started
+    - Certification Project: Technical Documentation Page
     
-    -Learn CSS Variables by Building a City Skyline, Not started
-    -Learn CSS Grid by Building a Magazine, Not started
-    -Certification Project: Product Landing Page
+    - Learn CSS Variables by Building a City Skyline, Not started
+    - Learn CSS Grid by Building a Magazine, Not started
+    - Certification Project: Product Landing Page
     
-    -Learn CSS Transforms by Building a Penguin, Not started
-    -Learn CSS Animation by Building a Ferris Wheel, Not started
-    -Certification Project: Personal Portfolio Webpage
+    - Learn CSS Transforms by Building a Penguin, Not started
+    - Learn CSS Animation by Building a Ferris Wheel, Not started
+    - Certification Project: Personal Portfolio Webpage
 
   
 - [Curriculum](#curriculum)
